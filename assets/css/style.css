@@ -150,6 +150,7 @@ body {
   
   .work img {
     width: 100%;
+    height: auto;
     border: 0 none;
     opacity: 0.8;
   }
@@ -174,6 +175,12 @@ body {
     height: auto;
     margin-top: 10px;
     margin-right: 25px;
+    margin-bottom: 50px;
+    -webkit-transform:rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    transform: rotate(90deg);
   }
   
   /* contact page */
