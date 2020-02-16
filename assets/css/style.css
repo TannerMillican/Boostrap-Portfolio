@@ -168,6 +168,13 @@ body {
     background: #4aaaa5;
     border-bottom: 0;
   }
+
+  .work h3 a {
+    font-family: Georgia, Times, "Times New Roman", serif;
+    font-weight: 700;
+    color: #ffffff;
+  }
+
   
   .auth-image {
     float: left;
